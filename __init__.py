@@ -1,0 +1,1 @@
+# TODO: Make sure all selector statements are error-handled. The selector module WILL throw exceptions when you least expect it
